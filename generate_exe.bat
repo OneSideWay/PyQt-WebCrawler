@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --icon=prod_cytus.ico --noconsole --add-data qwindowsvistastyle.dll;PyQt5/Qt/plugins/styles ./app.py
